@@ -24,15 +24,7 @@ To run the project:
 
 ## Results
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-For full implementation details, check out the [report](./ods-demo/report.pdf). Here's a brief summary of our experiments and findings:
-=======
 For full implementation details, check out the [report](./report.pdf). Here's a brief summary of our experiments and findings:
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
-=======
-For full implementation details, check out the [report](./report.pdf). Here's a brief summary of our experiments and findings:
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
 
 ### Experiments
 
@@ -71,20 +63,6 @@ GD had the best accuracy overall. BCGD-GS with 1D blocks (with or without cachin
   <table>
     <tr>
       <td align="center">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/gd-decision-boundary-toy.gif" width="200" alt="Animated 3D rotating plot of GD's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Toy dataset."/><br/>
-        <em>Fig. 1a: GD.</em>
-      </td>
-      <td align="center">
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/bcgd-1d-non-cached-decision-boundary-toy.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D without gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Toy dataset."/><br/>
-        <em>Fig. 1b: BCGD-GS 1D without gradient caching.</em>
-      </td>
-      <td align="center">
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/bcgd-1d-cached-decision-boundary-toy.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Toy dataset."/><br/>
-=======
-=======
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
         <img src="./results/algorithms/figures/decision-boundary/gd-decision-boundary-toy.gif" width="200" alt="Animated 3D rotating plot of GD's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Toy dataset."/><br/>
         <em>Fig. 1a: GD.</em>
       </td>
@@ -94,17 +72,13 @@ GD had the best accuracy overall. BCGD-GS with 1D blocks (with or without cachin
       </td>
       <td align="center">
         <img src="./results/algorithms/figures/decision-boundary/bcgd-1d-cached-decision-boundary-toy.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Toy dataset."/><br/>
-<<<<<<< HEAD
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
-=======
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
         <em>Fig. 1c: BCGD-GS 1D with gradient caching.</em>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+<br><br>
 
 <p align="center"><strong>Figure 2:</strong> Classification results on the Rice Type Classification dataset.</p>
 
@@ -112,62 +86,30 @@ GD had the best accuracy overall. BCGD-GS with 1D blocks (with or without cachin
   <table>
     <tr>
       <td align="center">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/gd-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of GD's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
+        <img src="./results/algorithms/figures/decision-boundary/gd-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of GD's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification dataset."/><br/>
         <em>Fig. 2a: GD.</em>
       </td>
       <td align="center">
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/bcgd-1d-non-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D without gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
+        <img src="./results/algorithms/figures/decision-boundary/bcgd-1d-non-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D without gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification dataset."/><br/>
         <em>Fig. 2b: BCGD-GS 1D without gradient caching.</em>
       </td>
       <td align="center">
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/bcgd-1d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-=======
-=======
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
-        <img src="./results/algorithms/figures/decision-boundary/gd-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of GD's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-        <em>Fig. 2a: GD.</em>
-      </td>
-      <td align="center">
-        <img src="./results/algorithms/figures/decision-boundary/bcgd-1d-non-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D without gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-        <em>Fig. 2b: BCGD-GS 1D without gradient caching.</em>
-      </td>
-      <td align="center">
-        <img src="./results/algorithms/figures/decision-boundary/bcgd-1d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-<<<<<<< HEAD
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
-=======
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
+        <img src="./results/algorithms/figures/decision-boundary/bcgd-1d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 1D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification dataset."/><br/>
         <em>Fig. 2c: BCGD-GS 1D with gradient caching.</em>
       </td>
     </tr>
   </table>
 </div>
-<br>
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/bcgd-10d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 10D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
+        <img src="./results/algorithms/figures/decision-boundary/bcgd-10d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 10D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification dataset."/><br/>
         <em>Fig. 2d: BCGD-GS 10D with gradient caching.</em>
       </td>
       <td align="center">
-        <img src="./ods-demo/results/algorithms/figures/decision-boundary/bcgd-100d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 100D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-=======
-=======
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
-        <img src="./results/algorithms/figures/decision-boundary/bcgd-10d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 10D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-        <em>Fig. 2d: BCGD-GS 10D with gradient caching.</em>
-      </td>
-      <td align="center">
-        <img src="./results/algorithms/figures/decision-boundary/bcgd-100d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 100D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification."/><br/>
-<<<<<<< HEAD
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
-=======
->>>>>>> 1b2e1e517e8ed4e4776e468f696e0fa4403f34be
+        <img src="./results/algorithms/figures/decision-boundary/bcgd-100d-cached-decision-boundary.gif" width="200" alt="Animated 3D rotating plot of BCGD-GS 100D with gradient caching's classification accuracy against a decision boundary interpolated using k-NN with k=1. Dataset: Rice Type Classification dataset."/><br/>
         <em>Fig. 2e: BCGD-GS 100D with gradient caching.</em>
       </td>
     </tr>
